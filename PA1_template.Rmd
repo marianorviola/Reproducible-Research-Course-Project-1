@@ -2,7 +2,9 @@
 title: "PA1_template"
 author: "Mariano Viola"
 date: "9/22/2020"
-output: html_document
+output: 
+        html_document:
+                keep_md: true
 ---
 
 1. Load and pre-process the data
